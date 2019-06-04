@@ -1,3 +1,15 @@
+[![Build Status](https://travis-ci.org/danielso2007/tesseract_test.svg?branch=master)](https://travis-ci.org/danielso2007/tesseract_test)
+![version](https://img.shields.io/badge/version-0.1.0-blue.svg)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/danielso2007/tesseract_test.svg)](https://github.com/danielso2007/tesseract_test/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/danielso2007/tesseract_test.svg)](https://github.com/danielso2007/tesseract_test/issues?q=is%3Aopen+is%3Aissue)
+![GitHub last commit](https://img.shields.io/github/last-commit/danielso2007/tesseract_test.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/danielso2007/tesseract_test.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/danielso2007/tesseract_test.svg)
+
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
+[![GitHub followers](https://img.shields.io/github/followers/danielso2007.svg?label=Follow&style=social)](https://github.com/danielso2007?tab=followers)
+
 # Tesseract Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.

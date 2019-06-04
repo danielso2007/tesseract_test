@@ -17,7 +17,8 @@ export class AppComponent implements OnInit {
   process: { status: string, progress: string };
   alert: { type: string, message: string };
   action = false;
-  url = 'assets/textos.png';
+  url = 'assets/poesia01.jpeg';
+  // url = 'assets/textos.png';
   // url = 'assets/ponto.jpg';
   // url = 'assets/teste01.jpg';
   // url = 'https://tesseract.projectnaptha.com/img/eng_bw.png';
